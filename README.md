@@ -20,7 +20,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-CurtainFall is available through [CocoaPods](http://cocoapods.org). To install
+LiquidButton is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
