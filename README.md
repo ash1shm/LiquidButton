@@ -1,28 +1,38 @@
 # LiquidButton
 
-[![CI Status](http://img.shields.io/travis/MoinPansare/LiquidButton.svg?style=flat)](https://travis-ci.org/MoinPansare/LiquidButton)
-[![Version](https://img.shields.io/cocoapods/v/LiquidButton.svg?style=flat)](http://cocoapods.org/pods/LiquidButton)
-[![License](https://img.shields.io/cocoapods/l/LiquidButton.svg?style=flat)](http://cocoapods.org/pods/LiquidButton)
-[![Platform](https://img.shields.io/cocoapods/p/LiquidButton.svg?style=flat)](http://cocoapods.org/pods/LiquidButton)
+
+Its Liquid Time for all controls, everything will start to Join / Morpf / Expand / Contract
+
+#Inspired From 
+(https://dribbble.com/shots/2343847-Button-Blast-Interaction-Principle)
+
+## Demo
+
+<a href="https://imgflip.com/gif/1ir9iy"><img src="https://i.imgflip.com/1ir9iy.gif" title="made at imgflip.com"/></a>
+
+## Requirements
+
+xCode <b>8+</b><br> Swift<b> 3.0</b>
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
 ## Installation
 
-LiquidButton is available through [CocoaPods](http://cocoapods.org). To install
+CurtainFall is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "LiquidButton"
+pod 'LiquidButton', :git => 'https://github.com/MoinPansare/LiquidButton.git'
 ```
 
 ## Author
 
 MoinPansare, moin.pansare@gmail.com
+
+Follow Me On twitter(https://twitter.com/MOIN__)
+
 
 ## License
 

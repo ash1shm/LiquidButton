@@ -1,0 +1,6 @@
+framework module LiquidButton {
+  umbrella header "LiquidButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

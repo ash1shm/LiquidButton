@@ -1,0 +1,16 @@
+PODS:
+  - LiquidButton (0.1.0)
+
+DEPENDENCIES:
+  - LiquidButton (from `../`)
+
+EXTERNAL SOURCES:
+  LiquidButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LiquidButton: 8c2dc5e5c08d6acc1aff87df14a1ce237920fb32
+
+PODFILE CHECKSUM: 19cb93ac2ee10e29c26229791977fc4f9443b6b2
+
+COCOAPODS: 1.1.1
