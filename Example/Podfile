@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LiquidButton_Example' do
+  pod 'LiquidButton', :path => '../'
+
+  target 'LiquidButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
