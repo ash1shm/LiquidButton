@@ -8,7 +8,7 @@ Its Liquid Time for all controls, everything will start to Join / Morpf / Expand
 
 ## Demo
 
-<a href="https://imgflip.com/gif/1ir9iy"><img src="https://i.imgflip.com/1ir9iy.gif" title="made at imgflip.com"/></a>
+<a href="https://github.com/MoinPansare/LiquidButton/blob/master/LiquidButton.gif"><img src="https://github.com/MoinPansare/LiquidButton/blob/master/LiquidButton.gif" title="Its About Time"/></a>
 
 ## Requirements
 
